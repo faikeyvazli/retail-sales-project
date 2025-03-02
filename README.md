@@ -9,3 +9,5 @@ The process will involve:
 For now, the basic EDA using SQL has been performed.
 You can access the saved query, along with the dataset from this link:
 https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1ssales-forecasting-452408!2sus-central1!3sefd72d8e-4b69-4b6f-8486-ddc356b93aff!2e1
+
+I will also upload the .csv file and the .txt file, containing the query here, just in case.
